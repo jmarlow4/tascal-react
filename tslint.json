@@ -15,6 +15,7 @@
     "object-literal-sort-keys": false,
     "member-ordering": false,
     "import-name": false,
-    "quotemark": [true, "single", "jsx-double"]
+    "quotemark": [true, "single", "jsx-double"],
+    "jsx-boolean-value": false
   }
 }
